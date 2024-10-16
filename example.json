@@ -5,15 +5,7 @@
   "aliases": [
     "Blast Sepolia"
   ],
-  "evm": true,
-  "near": false,
-  "cosmos": false,
-  "osmosis": false,
-  "arweave": false,
-  "bitcoin": false,
-  "solana": false,
-  "injective": false,
-  "starknet": false,
+  "networkType": "evm",
   "testnet": true,
   "substreams": false,
   "firehose": false,
