@@ -16,10 +16,12 @@
   "starknet": false,
   "testnet": true,
   "substreams": false,
+  "firehose": false,
   "studioSupport": true,
   "networkSupport": false,
   "publicRpcUrl": "https://sepolia.blast.io",
   "blockExplorerUrl": "https://sepolia.blastexplorer.io/",
   "linkToLogo": "https://cdn.prod.website-files.com/65a6baa1a3f8ed336f415cb4/65a6cf1c8674dbad24d5f027_Blast%20Logo%20Yellow.svg",
-  "linkToDocs": "https://docs.blast.io/about-blast"
+  "linkToDocs": "https://docs.blast.io/about-blast",
+  "gasToken": "BLAST?"
 }
