@@ -1,11 +1,10 @@
 {
   "name": "Blast Testnet",
-  "chainId": 168587773,
+  "chainId": "eip155:168587773",
   "graphCliName": "blast-testnet",
   "aliases": [
     "Blast Sepolia"
   ],
-  "networkType": "evm",
   "testnet": true,
   "studioSupport": {
          "subgraphs": true,
